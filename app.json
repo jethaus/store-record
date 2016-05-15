@@ -1,0 +1,16 @@
+{
+  "name": "store-record",
+  "description": "File describes the environment and add-ons required to run an app on Heroku",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
